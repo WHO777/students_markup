@@ -1,0 +1,9 @@
+Cython
+gdown
+numpy>=1.19.5
+scipy==1.5.4
+opencv-python>=4.5.5
+onnxruntime>=1.10.0
+insightface==0.6.2
+# install mxnet with GPU support (https://mxnet.apache.org/versions/master/get_started?platform=linux&language=python&processor=gpu&environ=pip&)
+mxnet==1.9.1
